@@ -1,0 +1,38 @@
+[
+    {
+       "image":"https://i.ibb.co/4sLwTTJ/one.png",
+       "image_two":"https://i.ibb.co/hY2BR5D/typerrwo.png",
+       "image_three":"https://i.ibb.co/VHwMHwX/typerthree.png",
+        "project_name": "Speed Typer website",
+        "project_create_time": "24 hours",
+        "project_tools" :"html css javascript",
+        "project_info": "This is a speed typer website.You can try your typeing speed",
+        "live_link":"https://spontaneous-frangipane-b80e8d.netlify.app/"
+        
+
+    },
+    {
+        "image":"https://i.ibb.co/N6fnf9N/two.png",
+        "image_two":"https://i.ibb.co/TTK8kzZ/quiztwo.png",
+        "image_three":"https://i.ibb.co/TLDrw13/Screenshot-2.png",
+        "project_name": "Play Quiz Website",
+        "project_create_time": "24 hours",
+        "project_tools" :"html css javascript",
+        "project_info": "This is a programming quiz website. This website is designed for primary level programmers. Here it is created using only html css js. If you want you can also visit it it is quite enjoyable",
+        "live_link": "https://darling-banoffee-9623e2.netlify.app/"
+
+    },
+    {
+        "image":"https://i.ibb.co/Xs9nHRx/three.png",
+        "image_two":"https://i.ibb.co/5ncx0Mq/edutwo.png",
+        "image_three":"https://i.ibb.co/GM623yN/edu3.png",
+        "project_name": "Educational Website",
+        "project_create_time": "24 hours",
+        "project_tools" :"The Firebase authentication system is used here.It build using react,bootstrap and custom css",
+        "project_info": "Educational service is an online educational website.",
+        "live_link":"https://edu-website-d9487.firebaseapp.com/"
+
+    }
+    
+
+]
